@@ -1,0 +1,11 @@
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\bin\Debug\net8.0\BasketballGame.Core.deps.json
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\bin\Debug\net8.0\BasketballGame.Core.dll
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\bin\Debug\net8.0\BasketballGame.Core.pdb
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\obj\Debug\net8.0\BasketballGame.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\obj\Debug\net8.0\BasketballGame.Core.AssemblyInfoInputs.cache
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\obj\Debug\net8.0\BasketballGame.Core.AssemblyInfo.cs
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\obj\Debug\net8.0\BasketballGame.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\obj\Debug\net8.0\BasketballGame.Core.dll
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\obj\Debug\net8.0\refint\BasketballGame.Core.dll
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\obj\Debug\net8.0\BasketballGame.Core.pdb
+C:\Users\Jorda\OneDrive\Documents\Game Design\EngineAgnosticCourtPhenom\src\GameCore\obj\Debug\net8.0\ref\BasketballGame.Core.dll

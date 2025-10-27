@@ -1,0 +1,15 @@
+{
+  "leagues": [
+    { "id": 1, "name": "High School", "gamesPerTeamRegularSeason": 24, "aiTeamsInLeague": 7 },
+    { "id": 2, "name": "State League", "gamesPerTeamRegularSeason": 24, "aiTeamsInLeague": 7 },
+    { "id": 3, "name": "Amateur Circuit", "gamesPerTeamRegularSeason": 28, "aiTeamsInLeague": 9 },
+    { "id": 4, "name": "College", "gamesPerTeamRegularSeason": 28, "aiTeamsInLeague": 9 },
+    { "id": 5, "name": "Semi-Pro", "gamesPerTeamRegularSeason": 30, "aiTeamsInLeague": 11 },
+    { "id": 6, "name": "Development", "gamesPerTeamRegularSeason": 30, "aiTeamsInLeague": 11 },
+    { "id": 7, "name": "Pro League 2", "gamesPerTeamRegularSeason": 34, "aiTeamsInLeague": 11 },
+    { "id": 8, "name": "Pro League 1", "gamesPerTeamRegularSeason": 36, "aiTeamsInLeague": 13 },
+    { "id": 9, "name": "International", "gamesPerTeamRegularSeason": 36, "aiTeamsInLeague": 13 },
+    { "id": 10, "name": "Legends", "gamesPerTeamRegularSeason": 40, "aiTeamsInLeague": 15 }
+  ],
+  "tuning": { "xpPerTrain": 850, "baseXpPerPlayer": 200, "winBonusPerPlayer": 150 }
+}

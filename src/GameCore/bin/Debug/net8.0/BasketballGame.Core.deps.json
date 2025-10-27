@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BasketballGame.Core/1.0.0": {
+        "runtime": {
+          "BasketballGame.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasketballGame.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
